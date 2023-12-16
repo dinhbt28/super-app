@@ -1,0 +1,6 @@
+[submodule "packages/auth"]
+	path = packages/auth
+	url = https://github.com/thiendinh1995/auth.git
+[submodule "packages/host"]
+	path = packages/host
+	url = https://github.com/thiendinh1995/host.git
