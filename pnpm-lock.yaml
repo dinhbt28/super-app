@@ -14,6 +14,9 @@ importers:
 
   packages/auth:
     dependencies:
+      '@babel/runtime':
+        specifier: ^7.20.0
+        version: 7.23.6
       '@react-native-async-storage/async-storage':
         specifier: 1.21.0
         version: 1.21.0(react-native@0.72.0)
